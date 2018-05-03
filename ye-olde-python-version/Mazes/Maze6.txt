@@ -1,0 +1,15 @@
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+1 g x 1 x 0 0 0 x 0 0 0 0 # x
+1 x 1 1 x x 0 0 0 0 # x r # 0
+1 # 0 x x x 0 1 0 x 0 b r b 0
+1 # # # # x 0 # # x # x 0 0 x
+1 x x x # # x x x x x x x # x
+1 x # 0 0 r # 0 0 r x # # # x
+1 x # r 0 0 # b x r 0 0 1 0 x
+1 x x x x x x x x r x 0 0 0 x
+1 x x x 0 0 x x x x x x 0 x x
+1 x x x # b r 0 0 b 1 x 0 # x
+1 x x x # 0 x x x x x x x # x
+1 x x x # r 0 # 0 0 x 0 r 0 x
+1 x x x # # # # 0 1 x 0 s 0 x
+1 1 1 1 1 1 1 1 1 1 x x x x x
